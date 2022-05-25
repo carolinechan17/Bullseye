@@ -6,8 +6,23 @@
 	<dict>
 		<key>Bullseye.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E61B6D3E282E5B940041D330</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E62C690B282CFD02004435E3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
